@@ -5,10 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "HackNerdFont:pixelsize=20";
-// static char *font = "mono:pixelsize=20:antialias=true:autohint=true";
-static char *font2[] = { "HackNerdFont:pixelsize=20" };
-// static char *font2[] = { "NotoColorEmoji:pixelsize=20:antialias=true:autohint=true" };
+ static char *font = "Hack Nerd Font Mono:pixelsize=20";
+ static char *font2[] = { "Hack Nerd Font Mono:pixelsize=20" };
 static int borderpx = 2;
 
 /*
